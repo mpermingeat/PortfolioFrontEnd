@@ -1,0 +1,18 @@
+.card{
+    border-width: 4px;
+}
+.card-img-top {
+    
+    height: 350px;
+    position: relative;
+}
+
+.imgPerfil{
+    width: 180px;
+    height: 200px;
+    position: absolute;
+    top: 150px;
+    margin-left: 3%;
+    border-radius: 50%;
+    
+}
