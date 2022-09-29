@@ -1,4 +1,4 @@
-header{
+nav{
     background-color: #343498;
        
     
@@ -6,36 +6,25 @@ header{
 footer{
     background-color: #343498;
 }
-.bi.bi-instagram {
+#icono {
     width: 20px;
     height: 20px;
     color: white;
-
-}
-.bi.bi-twitter {
-    width: 20px;
-    height: 20px;
-    color: white;
-}
-.bi.bi-github {
-    width: 20px;
-    height: 20px;
-    color: white;
+    margin-right: 5px;
 }
 #logoAP {
-    
     height: 50px;
-    width: auto;
-}
-.mediaIcons{
-    align-items: center;
-    float: right;
-    display: block;
-    padding: 5px;
-    margin: 5px;;
     
 }
+ #mediaIcons{
+    margin-top: 5px;
+    padding-top: 5px;
+    float: right;
+} 
 .card-img-top{
     height: 350px;
     width: 100%;
+}
+#logos{
+    max-width: 80px;
 }
