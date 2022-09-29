@@ -1,0 +1,41 @@
+header{
+    background-color: #343498;
+       
+    
+}
+footer{
+    background-color: #343498;
+}
+.bi.bi-instagram {
+    width: 20px;
+    height: 20px;
+    color: white;
+
+}
+.bi.bi-twitter {
+    width: 20px;
+    height: 20px;
+    color: white;
+}
+.bi.bi-github {
+    width: 20px;
+    height: 20px;
+    color: white;
+}
+#logoAP {
+    
+    height: 50px;
+    width: auto;
+}
+.mediaIcons{
+    align-items: center;
+    float: right;
+    display: block;
+    padding: 5px;
+    margin: 5px;;
+    
+}
+.card-img-top{
+    height: 350px;
+    width: 100%;
+}
