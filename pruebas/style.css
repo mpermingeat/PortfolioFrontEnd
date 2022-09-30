@@ -3,8 +3,16 @@ nav{
        
     
 }
+#body{
+    margin: 10px;
+}
+h1{
+    margin-left: 10px;
+}
 footer{
     background-color: #343498;
+    min-height: 200px;
+    
 }
 #icono {
     width: 20px;
@@ -28,3 +36,17 @@ footer{
 #logos{
     max-width: 80px;
 }
+#botonDelete{
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    
+}
+#botonesEdit{
+    position: relative; 
+    left: 97%;
+    
+}
+
+
