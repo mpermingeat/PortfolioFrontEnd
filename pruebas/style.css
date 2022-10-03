@@ -34,7 +34,10 @@ footer{
     width: 100%;
 }
 #logos{
-    max-width: 80px;
+    width: 200px;
+    height: 200px;
+    
+
 }
 #botonDelete{
     cursor: pointer;
@@ -45,8 +48,24 @@ footer{
 }
 #botonesEdit{
     position: relative; 
-    left: 97%;
+    left: 95%;
+    cursor: pointer;
     
 }
+#fotoPerfil{
+    max-width: 200px;
+    max-height: 200px;
+    position: absolute;
+    left: 2%;
+    top: 25%;
+    border: solid 5px;
+    border-color: white;
+}
+
+#login{
+    float: right;
+    
+}
+
 
 
